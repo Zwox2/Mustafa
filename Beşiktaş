@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Beşiktaş <3</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>2016-2017 Beşiktaş Kadrosu</h1>
+    <nav>
+        <a href="index.html">Ana Sayfa</a>
+        <a href="hakkinda.html">Hakkında</a>
+        <a href="dizifilm.html">Dizi-Film</a>
+        <a href="anket.html">Anket</a>
+        <a href="besiktas.html">Beşiktaş <3</a>
+        <a href="iletisim.html">İletişim</a>
+    </nav>
+</header>
+
+<div class="container">
+    <h2>Prime 11 - 2016/17 Sezonu</h2>
+    <ul>
+        <li><strong>Kaleci:</strong> Fabri</li>
+        <li><strong>Sağ Bek:</strong> Gökhan Gönül</li>
+        <li><strong>Stoper:</strong> Marcelo Guedes</li>
+        <li><strong>Stoper:</strong> Dusko Tosic</li>
+        <li><strong>Sol Bek:</strong> Adriano</li>
+        <li><strong>Orta Saha:</strong> Atiba Hutchinson</li>
+        <li><strong>Orta Saha:</strong> Oğuzhan Özyakup</li>
+        <li><strong>Orta Saha:</strong> Anderson Talisca</li>
+        <li><strong>Sağ Kanat:</strong> Ricardo Quaresma</li>
+        <li><strong>Sol Kanat:</strong> Ryan Babel</li>
+        <li><strong>Forvet:</strong> Cenk Tosun</li>
+    </ul>
+</div>
+
+<footer>
+    <p>Tüm hakları saklıdır © 2024 Mustafa Yalçın</p>
+</footer>
+
+</body>
+</html>
+
