@@ -1,9 +1,1 @@
-<form action="ziyaretci_defteri.html" method="POST">
-    <label for="name">Adınız:</label><br>
-    <input type="text" id="name" name="name" required><br><br>
 
-    <label for="message">Mesajınız:</label><br>
-    <textarea id="message" name="message" rows="4" required></textarea><br><br>
-
-    <button type="submit">Gönder</button>
-</form>
